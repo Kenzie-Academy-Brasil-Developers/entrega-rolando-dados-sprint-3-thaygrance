@@ -6,7 +6,7 @@
 body {
     background-color: darkgreen;
     color: whitesmoke;
-    background-image: url(/dice-25637.svg);
+    background-image: url(/css/dice-25637.svg);
 }
 
 .bar {
@@ -26,6 +26,6 @@ body {
 }
 
 body {
-    background-image: url(/dice-3095227_960_720.webp);
+    background-image: url(/css/dice-3095227_960_720.webp);
 
 }
