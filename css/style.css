@@ -1,0 +1,31 @@
+@media screen (max-width: 800px)
+
+:root { 
+}
+
+body {
+    background-color: darkgreen;
+    color: whitesmoke;
+    background-image: url(/dice-25637.svg);
+}
+
+.bar {
+    background-color: whitesmoke;
+    font-size: 12px;
+    font-weight: bold;
+    margin:10px;
+    padding: 10px;
+    color: #181818;
+    
+}
+
+@media screen (min-width: 1000px)
+
+
+:root { 
+}
+
+body {
+    background-image: url(/dice-3095227_960_720.webp);
+
+}
